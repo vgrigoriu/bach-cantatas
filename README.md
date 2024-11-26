@@ -18,3 +18,7 @@
 
 - BWV 132
 - BWV 147a
+
+## Sources
+
+[wikipedia](https://en.wikipedia.org/wiki/Church_cantata_(Bach)) - [calendar](https://files.lcms.org/file/preview/2024-25-three-year-series-c-calendar-pdf)
