@@ -1,7 +1,20 @@
 # Bach Cantatas by Ocasion
 
-## First Sunday of Advent
+## First Sunday of Advent (2024-12-01)
 
 - [BWV 61](https://classical.music.apple.com/ro/playlist/pl.u-JPAZlW2CX5mmG9)
-- BWV 62
-- BWV 36
+- [BWV 62](https://classical.music.apple.com/ro/playlist/pl.u-aZb0oxZC94NNoA)
+- [BWV 36](https://classical.music.apple.com/ro/playlist/pl.u-11zB7agSxmAAby)
+
+## Second Sunday of Advent (2024-12-08)
+
+- BWV 70a
+
+## Third Sunday of Advent (2024-12-15)
+
+- BWV 186a
+
+## Fourth Sunday of Advent (2024-12-22)
+
+- BWV 132
+- BWV 147a
