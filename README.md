@@ -2,7 +2,11 @@
 
 ## First Sunday of Advent (2024-12-01)
 
-- [BWV 61](https://classical.music.apple.com/ro/playlist/pl.u-JPAZlW2CX5mmG9)
+- BWV 61
+  - [playlist](https://classical.music.apple.com/ro/playlist/pl.u-JPAZlW2CX5mmG9)
+  - [AoB](https://www.bachvereniging.nl/en/bwv/bwv-61)
+  - [Wikipedia](https://en.wikipedia.org/wiki/Nun_komm,_der_Heiden_Heiland,_BWV_61)
+  - [Mincham](https://www.jsbachcantatas.com/documents/chapter-29-bwv-61/)
 - [BWV 62](https://classical.music.apple.com/ro/playlist/pl.u-aZb0oxZC94NNoA)
 - [BWV 36](https://classical.music.apple.com/ro/playlist/pl.u-11zB7agSxmAAby)
 
