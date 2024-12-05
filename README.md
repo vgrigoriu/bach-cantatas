@@ -23,6 +23,35 @@
 - BWV 132
 - BWV 147a
 
+## Christmas Day (2024-12-25)
+
+- BWV 63
+- BWV 91
+- BWV 110
+- BWV 197a
+- BWV 248<sup>I</sup>
+- BWV 191
+
+## Second Day of Christmas (2024-12-26)
+
+- BWV 40
+- BWV 121
+- BWV 57
+- BWV 248<sup>II</sup>
+
+## Third Day of Christmas (2024-12-27)
+
+- BWV 64
+- BWV 133
+- BWV 151
+- BWV 248<sup>III</sup>
+
+## Sunday after Christmas (2024-12-29)
+
+- BWV 152
+- BWV 122
+- BWV 28
+
 ## Sources
 
 [wikipedia](https://en.wikipedia.org/wiki/Church_cantata_(Bach)) - [calendar](https://files.lcms.org/file/preview/2024-25-three-year-series-c-calendar-pdf)
