@@ -16,7 +16,7 @@
 
 ## Third Sunday of Advent (2024-12-15)
 
-- BWV 186a
+- [BWV 186a](https://music.apple.com/ro/playlist/bwv-186a/pl.u-aZb0oAxC94NNoA)
 
 ## Fourth Sunday of Advent (2024-12-22)
 
