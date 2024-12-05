@@ -12,7 +12,7 @@
 
 ## Second Sunday of Advent (2024-12-08)
 
-- [BWV 70a](https://classical.music.apple.com/ro/playlist/pl.u-V9D70rptqJRR6W) (70 actually)
+- [BWV 70a](https://music.apple.com/ro/playlist/bwv-70a/pl.u-76oNrAys4zkkGy?l=ro)
 
 ## Third Sunday of Advent (2024-12-15)
 
