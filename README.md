@@ -20,7 +20,7 @@
 
 ## Fourth Sunday of Advent (2024-12-22)
 
-- BWV 132
+- [BWV 132](https://classical.music.apple.com/ro/playlist/pl.u-11zB72ouxmAAby)
 - BWV 147a
 
 ## Christmas Day (2024-12-25)
