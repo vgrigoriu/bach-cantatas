@@ -12,7 +12,7 @@
 
 ## Second Sunday of Advent (2024-12-08)
 
-- [BWV 70a](https://music.apple.com/ro/playlist/bwv-70a/pl.u-76oNrAys4zkkGy?l=ro)
+- [BWV 70a](https://music.apple.com/ro/playlist/bwv-70a/pl.u-76oNrAys4zkkGy?)
 
 ## Third Sunday of Advent (2024-12-15)
 
@@ -25,7 +25,7 @@
 
 ## Christmas Day (2024-12-25)
 
-- BWV 63
+- [BWV 63](https://classical.music.apple.com/ro/playlist/pl.u-aZb0bjDT94NNoA)
 - BWV 91
 - BWV 110
 - BWV 197a
