@@ -2,13 +2,14 @@
 
 ## First Sunday of Advent (2024-12-01)
 
-- BWV 61
-  - [playlist](https://classical.music.apple.com/ro/playlist/pl.u-JPAZlW2CX5mmG9)
-  - [AoB](https://www.bachvereniging.nl/en/bwv/bwv-61)
+- [BWV 61](https://classical.music.apple.com/ro/playlist/pl.u-JPAZlW2CX5mmG9)
+  - [All of Bach](https://www.bachvereniging.nl/en/bwv/bwv-61)
   - [Wikipedia](https://en.wikipedia.org/wiki/Nun_komm,_der_Heiden_Heiland,_BWV_61)
   - [Mincham](https://www.jsbachcantatas.com/documents/chapter-29-bwv-61/)
 - [BWV 62](https://classical.music.apple.com/ro/playlist/pl.u-aZb0oxZC94NNoA)
+  - [All of Bach](https://www.bachvereniging.nl/en/bwv/bwv-62)
 - [BWV 36](https://classical.music.apple.com/ro/playlist/pl.u-11zB7agSxmAAby)
+  - [All of Bach](https://www.bachvereniging.nl/en/bwv/bwv-36)
 
 ## Second Sunday of Advent (2024-12-08)
 
@@ -21,16 +22,21 @@
 ## Fourth Sunday of Advent (2024-12-22)
 
 - [BWV 132](https://classical.music.apple.com/ro/playlist/pl.u-11zB72ouxmAAby)
+  - [All of Bach](https://www.bachvereniging.nl/en/bwv/bwv-132)
 - BWV 147a
 
 ## Christmas Day (2024-12-25)
 
 - [BWV 63](https://classical.music.apple.com/ro/playlist/pl.u-aZb0bjDT94NNoA)
+  - [All of Bach](https://www.bachvereniging.nl/en/bwv/bwv-63)
 - [BWV 91](https://classical.music.apple.com/ro/playlist/pl.u-11zBzjYHxmAAby)
 - [BWV 110](https://classical.music.apple.com/ro/playlist/pl.u-d2b0bNWFpEll49)
+  - [All of Bach](https://www.bachvereniging.nl/en/bwv/bwv-110)
 - BWV 197a
 - [BWV 248<sup>I</sup>](https://classical.music.apple.com/ro/playlist/pl.u-e98l8PpSPq22dr)
+  - [All of Bach](https://www.bachvereniging.nl/en/bwv/bwv-248-1)
 - [BWV 191](https://classical.music.apple.com/ro/playlist/pl.u-38oWoG3I35vvL0)
+  - [All of Bach](https://www.bachvereniging.nl/en/bwv/bwv-191)
 
 ## Second Day of Christmas (2024-12-26)
 
