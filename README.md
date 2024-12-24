@@ -27,7 +27,7 @@
 
 - [BWV 63](https://classical.music.apple.com/ro/playlist/pl.u-aZb0bjDT94NNoA)
 - [BWV 91](https://classical.music.apple.com/ro/playlist/pl.u-11zBzjYHxmAAby)
-- BWV 110
+- [BWV 110](https://classical.music.apple.com/ro/playlist/pl.u-d2b0bNWFpEll49)
 - BWV 197a
 - BWV 248<sup>I</sup>
 - BWV 191
