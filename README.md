@@ -26,7 +26,7 @@
 ## Christmas Day (2024-12-25)
 
 - [BWV 63](https://classical.music.apple.com/ro/playlist/pl.u-aZb0bjDT94NNoA)
-- BWV 91
+- [BWV 91](https://classical.music.apple.com/ro/playlist/pl.u-11zBzjYHxmAAby)
 - BWV 110
 - BWV 197a
 - BWV 248<sup>I</sup>
