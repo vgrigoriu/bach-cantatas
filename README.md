@@ -29,7 +29,7 @@
 - [BWV 91](https://classical.music.apple.com/ro/playlist/pl.u-11zBzjYHxmAAby)
 - [BWV 110](https://classical.music.apple.com/ro/playlist/pl.u-d2b0bNWFpEll49)
 - BWV 197a
-- BWV 248<sup>I</sup>
+- [BWV 248<sup>I</sup>](https://classical.music.apple.com/ro/playlist/pl.u-e98l8PpSPq22dr)
 - BWV 191
 
 ## Second Day of Christmas (2024-12-26)
