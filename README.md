@@ -42,7 +42,7 @@
 
 - [BWV 40](https://music.apple.com/ro/playlist/bwv-40/pl.u-aZb0bl7T94NNoA)
   - [All of Bach](https://www.bachvereniging.nl/en/bwv/bwv-40)
-- BWV 121
+- [BWV 121](https://music.apple.com/ro/playlist/bwv-121/pl.u-11zBzkBTxmAAby)
 - BWV 57
 - BWV 248<sup>II</sup>
 
