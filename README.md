@@ -43,7 +43,8 @@
 - [BWV 40](https://music.apple.com/ro/playlist/bwv-40/pl.u-aZb0bl7T94NNoA)
   - [All of Bach](https://www.bachvereniging.nl/en/bwv/bwv-40)
 - [BWV 121](https://music.apple.com/ro/playlist/bwv-121/pl.u-11zBzkBTxmAAby)
-- BWV 57
+- [BWV 57](https://music.apple.com/ro/playlist/bwv-57/pl.u-d2b0brlIpEll49)
+  - [All of Bach](https://www.bachvereniging.nl/en/bwv/bwv-57)
 - BWV 248<sup>II</sup>
 
 ## Third Day of Christmas (2024-12-27)
