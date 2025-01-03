@@ -108,4 +108,4 @@
 
 ## Sources
 
-[wikipedia](https://en.wikipedia.org/wiki/Church_cantata_(Bach)) - [calendar](https://files.lcms.org/file/preview/2024-25-three-year-series-c-calendar-pdf)
+[wikipedia](https://en.wikipedia.org/wiki/Church_cantata_(Bach)) - [jsbachcantatas.com](https://www.jsbachcantatas.com) - [All of Bach](https://www.bachvereniging.nl/en/allofbach) - [calendar](https://files.lcms.org/file/preview/2024-25-three-year-series-c-calendar-pdf)
