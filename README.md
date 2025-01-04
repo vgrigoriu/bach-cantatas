@@ -72,10 +72,6 @@
 
 ## [Sunday after New Year](sunday-after-new-year.md) (2025-01-05)
 
-- BWV 153
-- BWV 58
-- BWV 248<sup>V</sup>
-
 ## Epiphany (2025-01-06)
 
 - BWV 65
