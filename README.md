@@ -70,7 +70,7 @@
 - BWV 248<sup>IV</sup>
 - BWV 143
 
-## Sunday after New Year (2025-01-05)
+## [Sunday after New Year](sunday-after-new-year.md) (2025-01-05)
 
 - BWV 153
 - BWV 58
