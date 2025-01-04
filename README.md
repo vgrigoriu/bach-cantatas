@@ -78,7 +78,7 @@
 - BWV 123
 - BWV 248<sup>VI</sup>
 
-# First Sunday after Epiphany (2025-01-12)
+## First Sunday after Epiphany (2025-01-12)
 
 - BWV 154
 - BWV 124
@@ -101,6 +101,8 @@
 
 - BWV 81
 - BWV 14
+
+## [Purification](purification.md) (2025-02-02)
 
 # Sources
 
