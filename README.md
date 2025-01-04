@@ -1,5 +1,7 @@
 # Bach Cantatas by Ocasion
 
+[calendar](calendar.md)
+
 ## First Sunday of Advent (2024-12-01)
 
 - [BWV 61](https://classical.music.apple.com/ro/playlist/pl.u-JPAZlW2CX5mmG9)
